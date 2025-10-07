@@ -1,7 +1,7 @@
 # run:
-
-`uv run python spatially_accurate_bricks.py pepsie.glb --visualize`
-
+ - `uv sync `
+ - `uv run python spatially_accurate_bricks.py pepsie.glb --visualize`
+ - Note: this takes a minute the first time it runs, then should be faster
 # GLB to Colored Bricks Converter
 
 Converts GLB 3D model files into spatially accurate colored brick structures while preserving texture colors and spatial relationships.

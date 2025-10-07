@@ -1,0 +1,13 @@
+[project]
+name = "voxelize"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.3",
+    "open3d>=0.19.0",
+    "pillow>=11.3.0",
+    "rtree>=1.4.1",
+    "trimesh>=4.8.3",
+]
